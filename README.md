@@ -1,6 +1,6 @@
 # Translational Bioinformatics Laboratory
 
-Welcome to the Translational Bioinformatics Laboratory at the Department of Medicine and Surgery, University of Milano-Bicocca, Milano, Italy!
+Welcome to the Translational Bioinformatics Laboratory at the Department of Medicine and Surgery of the University of Milano-Bicocca, Milano, Italy!
 
 ## About Us
 
@@ -15,4 +15,4 @@ If you are interested in our research and would like to collaborate or learn mor
 - **Lab Director**: Dr. [Daniele Ramazzotti](mailto:daniele.ramazzotti@unimib.it)
 - **Lab Website**: [TBL](http://tbl.medicina.unimib.it)
 - **University Department**: [Department of Medicine and Surgery](https://www.medicina.unimib.it/en)
-- **Location**: University of Milano-Bicocca, Monza, Italy
+- **Location**: University of Milano-Bicocca, Milano, Italy
