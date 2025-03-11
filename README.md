@@ -12,7 +12,7 @@ Our mission is to leverage the power of data-driven approaches, computational te
 
 If you are interested in our research and would like to collaborate or learn more about our projects, please explore our GitHub repositories and reach out to us. We welcome contributions from the scientific community and value collaboration.
 
-- **Lab Director**: Dr. [Daniele Ramazzotti](mailto:daniele.ramazzotti@unimib.it)
+- **Lab Director**: Prof. [Daniele Ramazzotti](mailto:daniele.ramazzotti@unimib.it)
 - **Lab Website**: [TBL](http://tbl.medicina.unimib.it)
 - **University Department**: [Department of Medicine and Surgery](https://www.medicina.unimib.it/en)
 - **Location**: University of Milano-Bicocca, Milano, Italy
